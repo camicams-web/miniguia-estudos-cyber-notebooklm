@@ -646,34 +646,6 @@ NotebookLM para transformar as fontes em diferentes formatos de estudo.
 -   💬 **Conversa** --- elaboração de perguntas e exploração dos
     conteúdos das fontes.
 
-## 📸 Evidências
-
-As evidências do processo podem ser adicionadas neste diretório:
-
-``` text
-evidencias/
-├── mapa-mental.png
-├── cartoes-didaticos.png
-├── teste-conhecimentos.png
-└── notebooklm.png
-```
-
-------------------------------------------------------------------------
-
-# 📂 Estrutura do repositório
-
-``` text
-primeiros-passos-em-ciberseguranca/
-│
-├── README.md
-│
-└── evidencias/
-    ├── mapa-mental.png
-    ├── cartoes-didaticos.png
-    ├── teste-conhecimentos.png
-    └── notebooklm.png
-```
-
 ------------------------------------------------------------------------
 
 # 🏁 Conclusão
