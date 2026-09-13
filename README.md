@@ -702,7 +702,7 @@ responsabilidades do estudante.
 Estudante de Ciência da Computação com interesse em tecnologia,
 programação e cibersegurança.
 
-🔗 GitHub: [camicams-web](https://github.com/camicams-web)
+🔗 GitHub: [camicams-web](https://github.com/camicams-web) 
 
 ------------------------------------------------------------------------
 
